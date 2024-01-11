@@ -1,0 +1,3 @@
+codigo do time;nome do time
+1;flamengo
+2;barcelona

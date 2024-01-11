@@ -1,0 +1,5 @@
+codigo;nome do jogador;codigo do time
+1;ronaldinho; 1
+2;messi; 2
+3;wagner love; 1
+4;xavi; 2
